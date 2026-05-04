@@ -1,0 +1,37 @@
+Dataset,Algorithm,min_sup,Time (s),RAM (MB),Frequent Itemsets,Status
+Chess,Apriori,0.8,28.727776765823364,1.98828125,11237,Success
+Chess,NS-FIM (SOTA),0.8,0.33876514434814453,2.140625,11237,Success
+Chess,Optimized (Bitset),0.8,8.343483209609985,0.56640625,11237,Success
+Chess,Optimized (Parallel),0.8,9.786956310272217,3.55078125,11237,Success
+Chess,Apriori,0.85,7.190792560577393,0.00390625,4088,Success
+Chess,NS-FIM (SOTA),0.85,0.09401059150695801,0.0,4088,Success
+Chess,Optimized (Bitset),0.85,1.2191338539123535,0.0,4088,Success
+Chess,Optimized (Parallel),0.85,2.7142364978790283,0.0,4088,Success
+Chess,Apriori,0.9,1.6866424083709717,0.0,946,Success
+Chess,NS-FIM (SOTA),0.9,0.03961682319641113,0.0,946,Success
+Chess,Optimized (Bitset),0.9,0.11100482940673828,0.0,946,Success
+Chess,Optimized (Parallel),0.9,0.9434900283813477,0.00390625,946,Success
+Connect,Apriori,0.95,30.0,0.0,0,Timeout
+Connect,NS-FIM (SOTA),0.95,30.0,0.0,0,Timeout
+Connect,Optimized (Bitset),0.95,30.0,0.0,0,Timeout
+Connect,Optimized (Parallel),0.95,30.0,0.0,0,Timeout
+Connect,Apriori,0.97,30.0,0.0,0,Timeout
+Connect,NS-FIM (SOTA),0.97,30.0,0.0,0,Timeout
+Connect,Optimized (Bitset),0.97,30.0,0.0,0,Timeout
+Connect,Optimized (Parallel),0.97,30.0,0.0,0,Timeout
+Connect,Apriori,0.99,30.0,0.0,0,Timeout
+Connect,NS-FIM (SOTA),0.99,30.0,0.0,0,Timeout
+Connect,Optimized (Bitset),0.99,30.0,0.0,0,Timeout
+Connect,Optimized (Parallel),0.99,30.0,0.0,0,Timeout
+Accidents,Apriori,0.6,3.586832046508789,0.0,3019,Success
+Accidents,NS-FIM (SOTA),0.6,0.15601873397827148,0.0,3019,Success
+Accidents,Optimized (Bitset),0.6,1.185274362564087,0.0,3019,Success
+Accidents,Optimized (Parallel),0.6,3.1646106243133545,0.0,3019,Success
+Accidents,Apriori,0.7,0.6420111656188965,0.0,913,Success
+Accidents,NS-FIM (SOTA),0.7,0.04765009880065918,0.0,913,Success
+Accidents,Optimized (Bitset),0.7,0.11269974708557129,0.0,913,Success
+Accidents,Optimized (Parallel),0.7,1.5194087028503418,0.0,913,Success
+Accidents,Apriori,0.8,0.167130708694458,0.0,243,Success
+Accidents,NS-FIM (SOTA),0.8,0.010402202606201172,0.0,243,Success
+Accidents,Optimized (Bitset),0.8,0.019046545028686523,0.0,243,Success
+Accidents,Optimized (Parallel),0.8,1.312608242034912,0.0,243,Success
