@@ -20,5 +20,3 @@ Thumbs.db
 .vscode/
 *.code-workspace
 
-# Large datasets (optional, but keep for now if requested, though user said "all project files")
-# I will keep the .txt datasets but ignore the temp/lock files
