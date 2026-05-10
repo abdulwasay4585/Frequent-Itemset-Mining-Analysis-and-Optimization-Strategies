@@ -24,7 +24,6 @@ To address the computational bottleneck of support counting in large candidate s
 - **algorithms.py**: Contains the core implementations of Apriori, NS-FIM, and optimized variants.
 - **fim_main.py**: The primary execution script for running benchmarks across different datasets and support levels.
 - **experiment_results.csv**: Automated output log containing performance metrics (Time, RAM usage, Frequent Itemsets found).
-- **FIM_Report_Draft.md**: Technical documentation and preliminary analysis of the findings.
 
 ## Datasets
 The project utilizes several standard FIM benchmark datasets:
